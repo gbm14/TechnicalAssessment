@@ -13,11 +13,11 @@ namespace TechnicalAssessment.Controllers
     [Route("api/[controller]")]
     public class BookmarksController : ControllerBase
     {
-        private readonly TechnicalAssessmentContext _context;
+        private readonly TechnicalAssessmentBBDDContext _context;
 
         private readonly ILogger<BookmarksController> _logger;
 
-        public BookmarksController(TechnicalAssessmentContext context, ILogger<BookmarksController> logger)
+        public BookmarksController(TechnicalAssessmentBBDDContext context, ILogger<BookmarksController> logger)
         {
             _context = context;
             _logger = logger;

@@ -82,3 +82,4 @@ C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssess
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp3.1\TechnicalAssessment.csproj.CoreCompileInputs.cache
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp3.1\TechnicalAssessment.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp3.1\TechnicalAssessment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\web.config

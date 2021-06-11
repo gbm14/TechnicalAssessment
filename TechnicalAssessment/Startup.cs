@@ -28,7 +28,10 @@ namespace TechnicalAssessment
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<TechnicalAssessmentContext>(opt => opt.UseInMemoryDatabase("TechnicalAssessmentBBDD"));
+            services.AddDbContext<TechnicalAssessmentBBDDContext>(opt =>
+            {
+                opt.UseSqlServer("Server=tcp:technicalassessmentgbm14.database.windows.net,1433;Initial Catalog=TechnicalAssesmentBBDD;Persist Security Info=False;User ID=gbm14;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+            });
             services.AddControllers();
             AddSwagger(services);
         }
