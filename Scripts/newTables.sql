@@ -1,13 +1,14 @@
 BEGIN
-	DROP TABLE IF EXISTS Users;
+	DROP TABLE IF EXISTS Bookmarks;
 
-	CREATE TABLE Data
+	CREATE TABLE Bookmarks
 	(
 		id INT IDENTITY PRIMARY KEY,
-		extId INT NOT NULL,
-		name NVARCHAR(128) NOT NULL,
-		fullName NVARCHAR(128) NOT NULL,
-		private bit NOT NULL,
-		license NVARCHAR(128) NOT NULL
+		extId INT,
+		username NVARCHAR(128),
+		name NVARCHAR(128),
+		fullName NVARCHAR(128),
+		private bit,
+		license NVARCHAR(128)
 	);
 END
