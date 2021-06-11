@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-06-11T19:19:01.8888758Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-06-11T18:48:09.6219208Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Type": "subscription",
+      "Value": "df32babe-47f0-49d0-9d47-be702e55babf"
+    },
+    "mssql1.resourceGroupName": {
+      "Type": "resourceGroup",
+      "Value": "TechnicalAssesmentResourceGroup"
+    }
+  }
+}

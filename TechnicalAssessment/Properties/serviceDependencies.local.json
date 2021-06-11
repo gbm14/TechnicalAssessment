@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/technicalassessmentgbm14/databases/TechnicalAssessmentBBDD",
+      "type": "mssql.azure",
+      "connectionId": "technicalassessmentgbm14.database.windows.net",
+      "secretStore": null
+    },
+    "secrets1": {
+      "type": "secrets.user"
+    }
+  }
+}

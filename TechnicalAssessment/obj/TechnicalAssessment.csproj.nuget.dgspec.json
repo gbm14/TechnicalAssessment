@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\e-gsbo\\OneDrive - GFT Technologies SE\\Desktop\\EnergyCap\\TechnicalAssessment\\TechnicalAssessment\\TechnicalAssessment.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\e-gsbo\\OneDrive - GFT Technologies SE\\Desktop\\EnergyCap\\TechnicalAssessment\\TechnicalAssessment\\TechnicalAssessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\e-gsbo\\OneDrive - GFT Technologies SE\\Desktop\\EnergyCap\\TechnicalAssessment\\TechnicalAssessment\\TechnicalAssessment.csproj",
+        "projectName": "TechnicalAssessment",
+        "projectPath": "C:\\Users\\e-gsbo\\OneDrive - GFT Technologies SE\\Desktop\\EnergyCap\\TechnicalAssessment\\TechnicalAssessment\\TechnicalAssessment.csproj",
+        "packagesPath": "C:\\Users\\e-gsbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\e-gsbo\\OneDrive - GFT Technologies SE\\Desktop\\EnergyCap\\TechnicalAssessment\\TechnicalAssessment\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\e-gsbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Nuget": {},
+          "https://pkgs.dev.azure.com/DOWEPDevOps/_packaging/solvia-artifacts/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Azure.Extensions.AspNetCore.Configuration.Secrets": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
