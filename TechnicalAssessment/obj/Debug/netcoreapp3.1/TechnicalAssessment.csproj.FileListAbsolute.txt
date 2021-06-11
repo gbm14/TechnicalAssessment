@@ -64,8 +64,6 @@ C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssess
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -80,7 +78,6 @@ C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssess
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\local\mssql1.arm.json
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp3.1\TechnicalAssessment.csproj.CoreCompileInputs.cache
 C:\Users\e-gsbo\OneDrive - GFT Technologies SE\Desktop\EnergyCap\TechnicalAssessment\TechnicalAssessment\obj\Debug\netcoreapp3.1\TechnicalAssessment.MvcApplicationPartsAssemblyInfo.cs
